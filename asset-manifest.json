@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prtmes/prathamesh-react/static/css/main.b05a0528.css",
-    "main.js": "/prtmes/prathamesh-react/static/js/main.ad22a538.js",
+    "main.js": "/prtmes/prathamesh-react/static/js/main.4e43952b.js",
     "static/js/787.0d7522e8.chunk.js": "/prtmes/prathamesh-react/static/js/787.0d7522e8.chunk.js",
     "static/media/project-commercial-1.jpg": "/prtmes/prathamesh-react/static/media/project-commercial-1.f657b7c8a56015c36d30.jpg",
     "static/media/commercial-background.jpg": "/prtmes/prathamesh-react/static/media/commercial-background.976411fd1fe17e5b18c3.jpg",
@@ -47,11 +47,11 @@
     "index.html": "/prtmes/prathamesh-react/index.html",
     "static/media/slick.woff": "/prtmes/prathamesh-react/static/media/slick.295183786cd8a1389865.woff",
     "main.b05a0528.css.map": "/prtmes/prathamesh-react/static/css/main.b05a0528.css.map",
-    "main.ad22a538.js.map": "/prtmes/prathamesh-react/static/js/main.ad22a538.js.map",
+    "main.4e43952b.js.map": "/prtmes/prathamesh-react/static/js/main.4e43952b.js.map",
     "787.0d7522e8.chunk.js.map": "/prtmes/prathamesh-react/static/js/787.0d7522e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b05a0528.css",
-    "static/js/main.ad22a538.js"
+    "static/js/main.4e43952b.js"
   ]
 }

@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/prathamesh-react/static/css/main.6eed5400.css",
-    "main.js": "/prathamesh-react/static/js/main.9217f0c7.js",
+    "main.js": "/prathamesh-react/static/js/main.20cfb975.js",
     "static/js/787.0d7522e8.chunk.js": "/prathamesh-react/static/js/787.0d7522e8.chunk.js",
+    "static/media/banner-slide-3.jpg": "/prathamesh-react/static/media/banner-slide-3.83fadee8f46fdb55dd19.jpg",
     "static/media/project-commercial-1.jpg": "/prathamesh-react/static/media/project-commercial-1.f657b7c8a56015c36d30.jpg",
     "static/media/commercial-background.jpg": "/prathamesh-react/static/media/commercial-background.976411fd1fe17e5b18c3.jpg",
     "static/media/kids-furniture-background.jpg": "/prathamesh-react/static/media/kids-furniture-background.61b4bd9d27fdf6b3b2f3.jpg",
+    "static/media/banner-slide-2.jpg": "/prathamesh-react/static/media/banner-slide-2.8e64ef9f8d87f20dd94f.jpg",
     "static/media/residential-background.jpg": "/prathamesh-react/static/media/residential-background.3d7e7957670bd39cac86.jpg",
     "static/media/project-residential-1.jpg": "/prathamesh-react/static/media/project-residential-1.18d88bae55e8d4965215.jpg",
     "static/media/banner-slide-1.jpg": "/prathamesh-react/static/media/banner-slide-1.6398987029562168abb6.jpg",
@@ -48,11 +50,11 @@
     "index.html": "/prathamesh-react/index.html",
     "static/media/slick.woff": "/prathamesh-react/static/media/slick.295183786cd8a1389865.woff",
     "main.6eed5400.css.map": "/prathamesh-react/static/css/main.6eed5400.css.map",
-    "main.9217f0c7.js.map": "/prathamesh-react/static/js/main.9217f0c7.js.map",
+    "main.20cfb975.js.map": "/prathamesh-react/static/js/main.20cfb975.js.map",
     "787.0d7522e8.chunk.js.map": "/prathamesh-react/static/js/787.0d7522e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6eed5400.css",
-    "static/js/main.9217f0c7.js"
+    "static/js/main.20cfb975.js"
   ]
 }
